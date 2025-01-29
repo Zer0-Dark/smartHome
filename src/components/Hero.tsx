@@ -2,7 +2,7 @@ import Nav from "./Nav"
 import Title from "./Title"
 import eclipse from "../assets/Ellipse 753.svg"
 import HeroShapes from "./HeroShapes"
-import mobiles from "../assets/mobiles.svg"
+import mobiles from "../assets/mobiles.png"
 import HeroIcons from "./HeroIcons"
 
 
